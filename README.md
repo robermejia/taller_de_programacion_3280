@@ -1,5 +1,5 @@
+# Taller de Programación- Sección 3280
 <center>
-  #Taller de Programación- Sección 3280
   <img src="https://i.ibb.co/3fxr2My/1.png" style="width: 100% ; aspect-ratio:16/9">
 </center>
 
