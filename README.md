@@ -1,4 +1,6 @@
-## CURSO DE TALLER DE PROGRAMACIÓN (JAVA) CICLO VERANO 2024
-### CLASES + PROYECTO FINAL
+<center>
+<img src="https://i.ibb.co/3fxr2My/1.png" style="width: 100% ; aspect-ratio:16/9">
+</center>
+## Taller de Programación- Sección 3280
 
 ![Proyecto de taller de programación](https://i.postimg.cc/TYc3yTFH/Captura-de-pantalla-2024-06-17-165358.png)
